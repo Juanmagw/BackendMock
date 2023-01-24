@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ProyectoBancaMock" />
         <module name="ProyectBancaMock" />
+        <module name="BackendMock" />
       </profile>
     </annotationProcessing>
   </component>
