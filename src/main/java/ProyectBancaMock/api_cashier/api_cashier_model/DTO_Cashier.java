@@ -1,4 +1,4 @@
-package api_cashier.api_cashier_model;
+package ProyectBancaMock.api_cashier.api_cashier_model;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import com.sun.org.apache.xpath.internal.operations.Bool;
